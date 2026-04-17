@@ -12,6 +12,16 @@ sdk/test.html
 sdk/data/
 sdk/proxy/
 
+# Game data & assets (proprietary - 200MB+)
+game/
+data/
+
+# API client library (proprietary)
+retrograde.js
+
+# Root README (proprietary - contains API docs, CDN URLs, game count)
+README.md
+
 # SDK dev/cache files
 sdk/.wrangler/
 
