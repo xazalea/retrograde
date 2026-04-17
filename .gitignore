@@ -32,6 +32,13 @@ sdk-test-loaded.png
 
 # Arcade CMS (proprietary - never publish)
 v8_2_arcade cms_28k_games_gamemonetize.com/
+v8_2_arcade cms_28k_games_gamemonetize.com (1)/
+
+# npm dev files
+sdk/node_modules/
+sdk/package.json
+sdk/package-lock.json
+server.log
 
 # System files
 .DS_Store
