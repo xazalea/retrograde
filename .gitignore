@@ -1,0 +1,31 @@
+# Source code (proprietary - never publish)
+sdk/retro.js
+sdk/retro_part1.js
+sdk/retro_part2.js
+sdk/retro_part3.js
+sdk/build.js
+sdk/build.py
+sdk/worker.js
+sdk/test.html
+
+# Data & proxy (proprietary)
+sdk/data/
+sdk/proxy/
+
+# SDK dev/cache files
+sdk/.wrangler/
+
+# Project screenshots
+sdk-game-playing.png
+sdk-test-initial.png
+sdk-test-loaded.png
+
+# Arcade CMS (proprietary - never publish)
+v8_2_arcade cms_28k_games_gamemonetize.com/
+
+# System files
+.DS_Store
+.claude/
+.playwright-mcp/
+.ruff_cache/
+.sisyphus/
